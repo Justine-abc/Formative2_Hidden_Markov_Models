@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 14 Pro,1783337825693,2026-07-06_11-37-05,Africa/Kigali,ios,1.60.1,0330a92a-3a7b-4ca6-92db-e482f6707eab,Accelerometer|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10,false,26.5
